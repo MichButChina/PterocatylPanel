@@ -1,1 +1,1 @@
-# PterocatylPanel
+# Pterocatyl Panel
